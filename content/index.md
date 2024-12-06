@@ -3,7 +3,7 @@ created:
 updated: 
 dg-home: true
 dg-publish: true
-title: Home
+title: Ja2Hw Obsi Blog
 permalink: /
 ---
 
