@@ -8,6 +8,9 @@ permalink: /
 # 옵시디언 기반 블로그 가동 중
 
 환영합니다! 👋<br>
+다양한 것들에 대해 공부하고 있습니다.
 
 ---
 
+GitHub
+https://github.com/Ja2Hw
