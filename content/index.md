@@ -3,6 +3,7 @@ dg-home: true
 dg-publish: true
 title: Ja2Hw Obsi Blog
 permalink: /
+modified: 2024-12-11T11:28:19+09:00
 ---
 
 # 옵시디언 기반 블로그 가동 중
