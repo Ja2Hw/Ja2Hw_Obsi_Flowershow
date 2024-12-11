@@ -13,4 +13,7 @@ permalink: /
 ---
 
 GitHub<br>
-https://github.com/Ja2Hw
+https://github.com/Ja2Hw<br><br>
+
+Home<br>
+https://ja2hwdev.pages.dev/<br>
