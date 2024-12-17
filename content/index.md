@@ -3,7 +3,7 @@ dg-home: true
 dg-publish: true
 title: Ja2Hw Dev-log
 permalink: /
-modified: 2024-12-11T11:28:19+09:00
+modified: 2024-12-17T16:02:46+09:00
 ---
 
 # Ja2Hw Dev-log
