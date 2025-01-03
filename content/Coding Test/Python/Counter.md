@@ -1,10 +1,11 @@
 ---
 created: 2025-01-03T10:30:18+09:00
-modified: 2025-01-03T11:13:07+09:00
+modified: 2025-01-03T11:15:57+09:00
 ---
 # Counter
 - `Counter`는 Python의 표준 라이브러리인 `collections` 모듈에서 제공하는 클래스
 - 리스트나 문자열 등의 iterable 객체에서 각 요소의 빈도(횟수)를 쉽게 계산할 수 있게 도와주는 도구로, **빈도 수를 계산하는 데 특화된 딕셔너리**라고 생각할 수 있음
+<br>
 <br>
 
 ## Counter의 기본 개념
@@ -33,6 +34,7 @@ print(counter[2])
 # 2의 빈도 출력: 3
 
 ```
+<br>
 <br>
 
 ## 주요 메서드
@@ -71,8 +73,12 @@ print(counter)
 ```
 
 <br>
+<br>
+
 ## 참고 예제 : 백준 20113번 긴급 회의
+<br>
 https://www.acmicpc.net/problem/20113
+<br>
 
 ```python
 
