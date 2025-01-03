@@ -3,7 +3,7 @@ dg-home: true
 dg-publish: true
 title: Ja2Hw Dev-log
 permalink: /
-modified: 2025-01-03T11:35:22+09:00
+modified: 2025-01-03T12:00:38+09:00
 ---
 
 # Ja2Hw Dev-log
@@ -14,8 +14,8 @@ modified: 2025-01-03T11:35:22+09:00
 ---
 
 [Home](https://ja2hwdev.pages.dev/)
-<br>
+<br><br>
 [GitHub](https://github.com/Ja2Hw)
-<br>
+<br><br>
 [Tistory](https://ja2hw.tistory.com/)
 <br><br>
