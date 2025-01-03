@@ -1,6 +1,6 @@
 ---
 created: 2025-01-03T10:30:18+09:00
-modified: 2025-01-03T11:15:57+09:00
+modified: 2025-01-03T11:32:34+09:00
 ---
 # Counter
 - `Counter`는 Python의 표준 라이브러리인 `collections` 모듈에서 제공하는 클래스
@@ -76,8 +76,7 @@ print(counter)
 <br>
 
 ## 참고 예제 : 백준 20113번 긴급 회의
-<br>
-https://www.acmicpc.net/problem/20113
+<br>[백준 20113번 긴급 회의](https://www.acmicpc.net/problem/20113)
 <br>
 
 ```python
