@@ -43,14 +43,14 @@ print(counter[2])
 ```python
 max_vote = max(counter.values())
 ```
-
+<br>
 ### 2. **`items()`**
 - counter.items()는 각 후보와 투표 수의 쌍을 반환
 ```python
 #enumerate 쓸 때와 유사한 방식으로 사용
 res = [i for i, value in counter.items() if value == max_vote]
 ```
-
+<br>
 ### 3. **`most_common(n)`**
 
 - 빈도 수가 높은 순으로 상위 `n`개의 요소와 빈도를 반환
@@ -59,7 +59,7 @@ counter = Counter([1, 2, 2, 3, 3, 3])
 print(counter.most_common(1)) 
 # 출력: [(3, 3)]  # 가장 빈도가 높은 3이 3번 등장
 ```
-
+<br>
 ### 4. **`del`**
 - `del` 키워드를 사용해 특정 키를 제거할 수 있음
 
@@ -81,7 +81,6 @@ https://www.acmicpc.net/problem/20113
 <br>
 
 ```python
-
 import sys
 from collections import Counter
 
