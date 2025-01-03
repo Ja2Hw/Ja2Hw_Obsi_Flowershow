@@ -1,6 +1,6 @@
 ---
 created: 2025-01-03T10:30:18+09:00
-modified: 2025-01-03T11:32:34+09:00
+modified: 2025-01-03T11:59:40+09:00
 ---
 # Counter
 - `Counter`는 Python의 표준 라이브러리인 `collections` 모듈에서 제공하는 클래스
