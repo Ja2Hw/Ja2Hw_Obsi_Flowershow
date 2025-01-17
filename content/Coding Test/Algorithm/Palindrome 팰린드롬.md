@@ -1,8 +1,10 @@
 ---
 created: 2024-12-10T15:50:55+09:00
-modified: 2024-12-10T15:55:32+09:00
+modified: 2025-01-17T11:40:22+09:00
 ---
 # Palindrome 팰린드롬
+[백준 1259 팰린드롬수](https://www.acmicpc.net/problem/1259)
+<br>
 
 - 앞에서부터 읽으나 귀에서부터 읽으나 같게 읽히는 문자열
 	- 기러기, 토마토, ...
@@ -27,3 +29,5 @@ for i in range(len(s)):
     print(len(s)+i)
     break
 ```
+
+<br>
