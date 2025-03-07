@@ -8,8 +8,10 @@ modified: 2025-03-01T21:55:12+09:00
 # Ja2Hw Dev-log
 
 환영합니다! 👋<br>
-Ja2Hw 개발 블로그입니다. <br>
-이 블로그는 Obsidian의 Flowershow 플러그인을 통해 제공되고 있습니다.
+개발자를 희망하며 공부하고 있는 김재환입니다.
+<br>
+여기는 Ja2Hw Dev-log 개인 개발 블로그입니다. <br>
+이 블로그는 Obsidian의 Flowershow 플러그인과 Netlify를 통해 배포되고 있습니다!
 
 ---
 
