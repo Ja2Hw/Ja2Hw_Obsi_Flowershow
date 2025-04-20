@@ -54,6 +54,11 @@ res = [i for i, value in counter.items() if value == max_vote]
 ### 3. **`most_common(n)`**
 
 - 빈도 수가 높은 순으로 상위 `n`개의 요소와 빈도를 반환
+- 출력 값이 리스트 내에 튜플이 있는 형태임
+	- `cnt.most_common(1)` → **리스트**: `[('apple', 3)]`
+	- `cnt.most_common(1)[0]` → **튜플**: `('apple', 3)`
+	- `cnt.most_common(1)[0][0]` → **문자열**: `'apple'` ← 우리가 찾는 "가장 흔한 단어"
+
 ```python
 counter = Counter([1, 2, 2, 3, 3, 3]) 
 print(counter.most_common(1)) 
