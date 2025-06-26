@@ -6,7 +6,7 @@ tags:
 ---
 백준 BOJ 27162 Yacht Dice 문제의 파이썬 python 풀이입니다.
 
-https://www.acmicpc.net/problem/25204
+https://www.acmicpc.net/problem/27162
 
 
 <br><br>
